@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria.ealcantara\\Documents\\c#\\nota_aluno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDD0AAF-8A5E-44AC-83E4-66F3B0777E57}|nota_aluno\\nota_aluno.csproj|c:\\users\\maria.ealcantara\\documents\\c#\\nota_aluno\\nota_aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDD0AAF-8A5E-44AC-83E4-66F3B0777E57}|nota_aluno\\nota_aluno.csproj|solutionrelative:nota_aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria.ealcantara\\Documents\\c#\\nota_aluno\\nota_aluno\\Program.cs",
+              "RelativeDocumentMoniker": "nota_aluno\\Program.cs",
+              "ToolTip": "C:\\Users\\maria.ealcantara\\Documents\\c#\\nota_aluno\\nota_aluno\\Program.cs",
+              "RelativeToolTip": "nota_aluno\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T13:10:31.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

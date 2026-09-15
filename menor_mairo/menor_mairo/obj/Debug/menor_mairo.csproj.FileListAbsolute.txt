@@ -1,0 +1,7 @@
+C:\Users\maria.ealcantara\Documents\c#\menor_mairo\menor_mairo\bin\Debug\menor_mairo.exe.config
+C:\Users\maria.ealcantara\Documents\c#\menor_mairo\menor_mairo\bin\Debug\menor_mairo.exe
+C:\Users\maria.ealcantara\Documents\c#\menor_mairo\menor_mairo\bin\Debug\menor_mairo.pdb
+C:\Users\maria.ealcantara\Documents\c#\menor_mairo\menor_mairo\obj\Debug\menor_mairo.csproj.AssemblyReference.cache
+C:\Users\maria.ealcantara\Documents\c#\menor_mairo\menor_mairo\obj\Debug\menor_mairo.csproj.CoreCompileInputs.cache
+C:\Users\maria.ealcantara\Documents\c#\menor_mairo\menor_mairo\obj\Debug\menor_mairo.exe
+C:\Users\maria.ealcantara\Documents\c#\menor_mairo\menor_mairo\obj\Debug\menor_mairo.pdb

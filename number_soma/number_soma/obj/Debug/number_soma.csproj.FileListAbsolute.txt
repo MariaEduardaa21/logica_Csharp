@@ -1,0 +1,7 @@
+C:\Users\maria.ealcantara\Documents\c#\number_soma\number_soma\obj\Debug\number_soma.csproj.AssemblyReference.cache
+C:\Users\maria.ealcantara\Documents\c#\number_soma\number_soma\obj\Debug\number_soma.csproj.CoreCompileInputs.cache
+C:\Users\maria.ealcantara\Documents\c#\number_soma\number_soma\bin\Debug\number_soma.exe.config
+C:\Users\maria.ealcantara\Documents\c#\number_soma\number_soma\bin\Debug\number_soma.exe
+C:\Users\maria.ealcantara\Documents\c#\number_soma\number_soma\bin\Debug\number_soma.pdb
+C:\Users\maria.ealcantara\Documents\c#\number_soma\number_soma\obj\Debug\number_soma.exe
+C:\Users\maria.ealcantara\Documents\c#\number_soma\number_soma\obj\Debug\number_soma.pdb

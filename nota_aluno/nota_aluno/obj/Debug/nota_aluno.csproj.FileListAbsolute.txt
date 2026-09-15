@@ -1,0 +1,7 @@
+C:\Users\maria.ealcantara\Documents\c#\nota_aluno\nota_aluno\obj\Debug\nota_aluno.csproj.AssemblyReference.cache
+C:\Users\maria.ealcantara\Documents\c#\nota_aluno\nota_aluno\obj\Debug\nota_aluno.csproj.CoreCompileInputs.cache
+C:\Users\maria.ealcantara\Documents\c#\nota_aluno\nota_aluno\bin\Debug\nota_aluno.exe.config
+C:\Users\maria.ealcantara\Documents\c#\nota_aluno\nota_aluno\bin\Debug\nota_aluno.exe
+C:\Users\maria.ealcantara\Documents\c#\nota_aluno\nota_aluno\bin\Debug\nota_aluno.pdb
+C:\Users\maria.ealcantara\Documents\c#\nota_aluno\nota_aluno\obj\Debug\nota_aluno.exe
+C:\Users\maria.ealcantara\Documents\c#\nota_aluno\nota_aluno\obj\Debug\nota_aluno.pdb

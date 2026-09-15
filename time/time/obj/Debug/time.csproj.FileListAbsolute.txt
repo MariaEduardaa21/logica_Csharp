@@ -1,0 +1,7 @@
+C:\Users\maria.ealcantara\Documents\c#\time\time\bin\Debug\time.exe.config
+C:\Users\maria.ealcantara\Documents\c#\time\time\bin\Debug\time.exe
+C:\Users\maria.ealcantara\Documents\c#\time\time\bin\Debug\time.pdb
+C:\Users\maria.ealcantara\Documents\c#\time\time\obj\Debug\time.csproj.AssemblyReference.cache
+C:\Users\maria.ealcantara\Documents\c#\time\time\obj\Debug\time.csproj.CoreCompileInputs.cache
+C:\Users\maria.ealcantara\Documents\c#\time\time\obj\Debug\time.exe
+C:\Users\maria.ealcantara\Documents\c#\time\time\obj\Debug\time.pdb
